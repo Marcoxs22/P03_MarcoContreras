@@ -4489,7 +4489,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c461a7620065b924a99a16f0fbcca3fe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.1
+  speed: 0.3
 --- !u!64 &1610902052
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4706,7 +4706,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c461a7620065b924a99a16f0fbcca3fe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.1
+  speed: 0.5
 --- !u!64 &1672097956
 MeshCollider:
   m_ObjectHideFlags: 0
