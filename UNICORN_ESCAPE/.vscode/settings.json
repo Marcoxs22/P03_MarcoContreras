@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Parcial2_Marco-main.sln"
+    "dotnet.defaultSolution": "UNICORN_ESCAPE.sln"
 }
