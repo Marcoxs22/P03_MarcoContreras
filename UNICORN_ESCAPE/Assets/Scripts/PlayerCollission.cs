@@ -29,7 +29,7 @@ public class PlayerCollission : MonoBehaviour
             if (dash.IsDashing)
             {
                 onObstacleDestroyed?.Invoke(transform);
-                Destroy(collision.gameObject);
+                collision.gameObject.SetActive(false);
             }
             else
             {

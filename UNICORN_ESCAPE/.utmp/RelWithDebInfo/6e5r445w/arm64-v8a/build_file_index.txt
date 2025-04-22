@@ -1,0 +1,2 @@
+C:\Users\Equipo 30\Documents\GitHub\P03_MarcoContreras\UNICORN_ESCAPE\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\Equipo 30\Documents\GitHub\P03_MarcoContreras\UNICORN_ESCAPE\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
